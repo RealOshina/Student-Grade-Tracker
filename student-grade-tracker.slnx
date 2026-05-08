@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="student-grade-tracker.vcxproj" />
+  <Project Path="D:/repos/student-grade-tracker/student-grade-tracker.vcxproj" Id="0cd8153f-f366-43ab-89db-1d89303e3b71" />
 </Solution>
