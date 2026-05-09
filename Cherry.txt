@@ -1,0 +1,11 @@
+Cherry
+10.00
+100.00
+100.00
+100.00
+77.50
+
+
+If you want to change the score, please change the number only.
+The arrangement is Math, Science, English, Social, Average.
+

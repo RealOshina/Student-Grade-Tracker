@@ -1,0 +1,11 @@
+Apple
+10.00
+20.00
+30.00
+40.00
+25.00
+
+
+If you want to change the score, please change the number only.
+The arrangement is Math, Science, English, Social, Average.
+
