@@ -1,3 +1,2 @@
 ﻿  main.c
 D:\repos\student-grade-tracker\main.c(51,11): warning C4101: 'option': unreferenced local variable
-  student-grade-tracker.vcxproj -> D:\repos\student-grade-tracker\x64\Debug\student-grade-tracker.exe
